@@ -1,6 +1,6 @@
-0x00. Pascal's Triangle
-Algorithm
-Python
+### 0x00. Pascal's Triangle
+`Algorithm`
+`Python`
  By: Alexa Orrico, Software Engineer at Holberton School
  Weight: 1
  Project will start Apr 17, 2023 6:00 AM, must end by Apr 21, 2023 6:00 AM
@@ -48,5 +48,5 @@ guillaume@ubuntu:~/0x00$
 ### Repo:
 
 + ### GitHub repository: alx-interview
-+ ###Directory: 0x00-pascal_triangle
-+ ###File: 0-pascal_triangle.py
++ Directory: 0x00-pascal_triangle
++ File: 0-pascal_triangle.py
