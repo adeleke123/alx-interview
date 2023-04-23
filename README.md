@@ -12,15 +12,13 @@ Python
 
  An auto review will be launched at the deadline
 
-In a nutshell…
-
-Auto QA review: 11.0/11 mandatory
+review: 11.0/11 mandatory
 
 Altogether:  100.0%
 
 Mandatory: 100.0%
 
-Optional: no optional tasks
+
 
 Concepts
 
@@ -34,9 +32,7 @@ Tasks
 
 mandatory
 
-Score: 100.0% (Checks completed: 100.0%)
 
-Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n:
 
 Returns an empty list if n <= 0
 
